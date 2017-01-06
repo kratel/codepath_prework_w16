@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![TipCalc Demo 1.1](http://i.imgur.com/RmK0uET.gifv "Video Walkthrough")
+![TipCalc Demo 1.1](http://i.imgur.com/Rmk0uET.gifv "Video Walkthrough")
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
