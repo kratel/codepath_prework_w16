@@ -1,6 +1,6 @@
 # codepath_prework_w16
 codepath prework project for Web Security Course hosted at CCNY
-# Pre-work - *Name of App Here*
+# Pre-work - *TipCalc*
 
 TipCalc is a tip calculator PHP page.
 
@@ -9,13 +9,13 @@ Submitted by: Santiago Salas
 Time spent: **7** hours spent in total
 
 ## User Stories
-1) John
+### John
 	John goes to eat dinner after work. He decides to go to a local diner orders some steak and afterwards some pie for dessert. His bill comes to $22.58. The recommended tip percentage is 10% but John felt he had exquisite service so he decides to tip 20%. Since the bill is at such an inconvenient number he decides to use TipCalc to calculate how much he should pay in total. At first he types something other than a number in the subtotal section, but is reminded of his mistake and corrects it.
 
-2) Eric and siblings
+### Eric and siblings
     Eric goes out to lunch with his two brothers. When they receive the bill they decide to pay a 15% tip. Eric opens the TipCalc app to fill in the subtotal of $38.88 and choose the 15% tip option. He then puts the number of people to split with as 3. Initially Eric accidentaly deletes the default value of 1 for people to split the bill and is reminded to input a proper value. After accidentaly inputting 3.3 he reminded to input a proper number of people. They easily and quickly see how much they each have to pay and how much they contribute to the tip.
 
-3) Ben
+### Ben
     Ben goes out to have dinner with his family and friends, a party totaling 11 people (including Ben). At this restaurant a tip % of 24% is deemed appropriate for parties of 8 or greater. His subtotal is $146.90. He opens up TipCalc to calculate how to split the bill. He inputs the subtotal and persons to split the bill with, but after selecting a custom tip leaves the field blank. The app reminds him to select an appropriate tip or input a valid custom tip. He then inputs 24 as the custom tip percentage and receives his calculated totals.
 
 The following **required** functionality is complete:
@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/6n4n5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=[imgur](http://i.imgur.com/6n4n5) title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
