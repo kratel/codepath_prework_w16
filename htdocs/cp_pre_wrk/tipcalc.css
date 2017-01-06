@@ -1,0 +1,47 @@
+body {
+	background-color: white;
+}
+h1 {
+	font-family: verdana;
+}
+table {
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+	border-spacing: 5px;
+	background-color: #ACE2EA;
+}
+th, td {
+	padding: 5px;
+}
+
+td.sub_in {
+	color: #2B1C45;
+}
+table.formt {
+	border: none;
+}
+table.results {
+	background-color: #ACEABD;
+	color: #1E3B0D;
+	font-size: 25px;
+}
+
+td.rad {
+	text-align: center;
+}
+td.submittd {
+	text-align: center;
+}
+
+input[type=submit] {
+	background-color: red;
+	color: white;
+	padding: 5px 10px;
+	text-align: center;
+	font-size: 18px;
+	border-radius: 12px;
+
+}
+
+
