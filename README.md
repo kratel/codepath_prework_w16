@@ -4,9 +4,9 @@ codepath prework project for Web Security Course hosted at CCNY
 
 TipCalc is a tip calculator PHP page.
 
-Submitted by: Santiago Salas
+Submitted by: **Santiago Salas**
 
-Time spent: **7** hours spent in total
+Time spent: **7.5** hours spent in total
 
 ## User Stories
 ### John
@@ -17,6 +17,9 @@ Eric goes out to lunch with his two brothers. When they receive the bill they de
 
 ### Ben
 Ben goes out to have dinner with his family and friends, a party totaling 11 people (including Ben). At this restaurant a tip % of 24% is deemed appropriate for parties of 8 or greater. His subtotal is $146.90. He opens up TipCalc to calculate how to split the bill. He inputs the subtotal and persons to split the bill with, but after selecting a custom tip leaves the field blank. The app reminds him to select an appropriate tip or input a valid custom tip. He then inputs 24 as the custom tip percentage and receives his calculated totals.
+
+### Richard
+Richard goes to a grand opening of a new restaurant. He recently sold his company and decided to treat everyone in the restaurant. The bill subtotal comes to $1000, he opens TipCalc to calculate how much he should tip. He is delighted to see that his totals are easy to read with commas seperating the thousands. He then goes back the next night and offers to treat everyone again. Due to the success of the first night more people are here and the bill subtotal is $1,000,000. Richard opens up TipCalc knowing that the totals will be easy to read and he can quickly calculate his total with tip.
 
 The following **required** functionality is complete:
 * [x] User can enter a bill amount, choose a tip percentage, and submit the form to see the tip and total values.
@@ -38,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![imgur](http://i.imgur.com/6n4n5X3.gif "Video Walkthrough")
+![TipCalc Demo 1.1](http://i.imgur.com/RmK0uET.gifv "Video Walkthrough")
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 

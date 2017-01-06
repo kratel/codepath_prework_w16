@@ -98,19 +98,23 @@
 			$tip = round($tip,2);
 			$total = $tip + $billsub;
 			$total = round($total,2);
-			echo "Tip: $" .$tip;
+			$tip_f = number_format($tip,2,'.',',');
+			$total_f = number_format($total,2,'.',',');
+			echo "Tip: $" .$tip_f;
 			echo"</td> </tr>";
 			echo"<tr> <td>";
-			echo "Total: $" .$total;
+			echo "Total: $" .$total_f;
 			if ($split > 1){
 				$sptip = round(($tip/$split),2);
 				$sptotal = round(($total/$split),2);
+				$sptip_f = number_format($sptip,2,'.',',');
+				$sptotal_f = number_format($sptotal,2,'.',',');
 				echo"</td> </tr>";
 				echo"<tr> <td>";
-				echo"Tip each: $" .$sptip;
+				echo"Tip each: $" .$sptip_f;
 				echo"</td> </tr>";
 				echo"<tr> <td>";
-				echo"Total each: $" .$sptotal;
+				echo"Total each: $" .$sptotal_f;
 
 			}
 
